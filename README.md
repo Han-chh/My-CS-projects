@@ -1,4 +1,4 @@
-# My CS Project Collection / 我的计算机项目合集
+# My CS Project Collection
 
 Welcome to my CS project collection repository!  
 The main purposes of this repository are:
@@ -19,7 +19,7 @@ The main purposes of this repository are:
 
 ---
 
-## About This Repository / 关于本仓库
+## About This Repository
 
 - This repository contains links to multiple project folders, each corresponding to an individual small project  
 - Each project also has its own independent repository providing source code and documentation  
