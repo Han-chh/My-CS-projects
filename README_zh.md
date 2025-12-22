@@ -17,7 +17,25 @@
 4. **欢迎改进意见**
    - 本仓库中很多代码是多年以前完成再加以整理，难免有bug、功能不完善、版本兼容、跨平台兼容问题。如果遇到此类问题欢迎在评论或联系**13269982528@163.com**报告
 
-> 如果你觉得这个仓库对你有帮助，请给它一个 ⭐️ 支持一下！
+## 📦 项目索引
+
+本仓库作为我已完成项目的**集中展示与导航仓库**。  
+每一个项目都维护在**独立的 GitHub 仓库**中，便于单独学习、使用和维护。
+
+| 项目名称 | 项目简介 | 技术栈 | 仓库链接 |
+|---------|----------|--------|----------|
+| 2048 | 经典 2048 游戏实现 | Java | 🔗 [仓库](https://github.com/Han-chh/2048) |
+| MineSweeper | 扫雷游戏（图形界面） | Java / Swing | 🔗 [仓库](https://github.com/Han-chh/MineSweeper) |
+| DiaryBook | 桌面日记本应用 | Java / Swing | 🔗 [仓库](https://github.com/Han-chh/DiaryBook) |
+| RGB Color Panel | RGB 颜色展示与调节工具 | Java | 🔗 [仓库](https://github.com/Han-chh/RGB-Color-Panel) |
+| Gluttonous Snake | 经典贪吃蛇游戏 | Java | 🔗 [仓库](https://github.com/Han-chh/Gluttonous-Snake) |
+| Tetris | 俄罗斯方块游戏实现 | Java | 🔗 [仓库](https://github.com/Han-chh/Tetris) |
+| Grid Map Generator | 基于网格的地图生成工具 | Java / 算法 | 🔗 [仓库](https://github.com/Han-chh/Grid-Map-Generator) |
+| Timer Module | 计时器工具模块 | Java | 🔗 [仓库](https://github.com/Han-chh/Timer-module) |
+
+> 每个项目仓库中均包含独立的 README 文件，提供详细说明、运行方式和使用示例，适合学习与参考。
+
+> **如果你觉得这个仓库对你有帮助，请给它一个 ⭐️ 支持一下！**
 
 ---
 
