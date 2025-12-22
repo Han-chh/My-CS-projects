@@ -38,7 +38,7 @@ Each project is maintained in its own independent GitHub repository.
 
  
 
-> If you find this repository helpful, please give it a ⭐️ to support me!
+> **If you find this repository helpful, please give it a ⭐️ to support me!**
 
 ---
 
