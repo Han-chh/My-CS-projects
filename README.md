@@ -17,6 +17,25 @@ The main purposes of this repository are:
 4. **Suggestions & Improvements Welcome**
 - Many projects in this repository were originally completed years ago and later reorganized. As a result, there may be bugs, incomplete features, version incompatibilities, or cross-platform issues.
 - If you encounter any of these problems, feel free to open an issue or contact me at **13269982528@163.com** to report them.
+
+## 📦 Project Index
+
+This repository serves as a collection and navigation hub for my completed projects.  
+Each project is maintained in its own independent GitHub repository.
+
+| Project Name | Description | Language / Tech | Link |
+|-------------|------------|------------------|------|
+| 2048 | Classic 2048 game implementation | Java | 🔗 [Repository](https://github.com/Han-chh/2048) |
+| MineSweeper | Minesweeper game with GUI | Java / Swing | 🔗 [Repository](https://github.com/Han-chh/MineSweeper) |
+| DiaryBook | Desktop diary application | Java / Swing | 🔗 [Repository](https://github.com/Han-chh/DiaryBook) |
+| RGB Color Panel | RGB color visualization and adjustment tool | Java | 🔗 [Repository](https://github.com/Han-chh/RGB-Color-Panel) |
+| Gluttonous Snake | Classic Snake game | Java | 🔗 [Repository](https://github.com/Han-chh/Gluttonous-Snake) |
+| Tetris | Tetris game implementation | Java | 🔗 [Repository](https://github.com/Han-chh/Tetris) |
+| Grid Map Generator | Grid-based map generation tool | Java / Algorithm | 🔗 [Repository](https://github.com/Han-chh/Grid-Map-Generator) |
+| Timer Module | Timer utility module | Java | 🔗 [Repository](https://github.com/Han-chh/Timer-module) |
+
+> Each project repository contains its own README with detailed descriptions, setup instructions, and usage examples.
+
  
 
 > If you find this repository helpful, please give it a ⭐️ to support me!
