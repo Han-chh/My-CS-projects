@@ -21,19 +21,21 @@ The main purposes of this repository are:
 ## 📦 Project Index
 
 This repository serves as a collection and navigation hub for my completed projects.  
-Each project is maintained in its own independent GitHub repository.
-The links here direct to **github** repositories. If you use **gitee**, you may search the specific repository manually.
+Each project is maintained in its own independent GitHub and Gitee repository.
 
-| Project Name | Description | Language / Tech | Link |
-|-------------|------------|------------------|------|
-| 2048 | Classic 2048 game implementation | Java | 🔗 [Repository](https://github.com/Han-chh/2048) |
-| MineSweeper | Minesweeper game with GUI | Java / Swing | 🔗 [Repository](https://github.com/Han-chh/MineSweeper) |
-| DiaryBook | Desktop diary application | Java / Swing | 🔗 [Repository](https://github.com/Han-chh/DiaryBook) |
-| RGB Color Panel | RGB color visualization and adjustment tool | Java | 🔗 [Repository](https://github.com/Han-chh/RGB-Color-Panel) |
-| Gluttonous Snake | Classic Snake game | Java | 🔗 [Repository](https://github.com/Han-chh/Gluttonous-Snake) |
-| Tetris | Tetris game implementation | Java | 🔗 [Repository](https://github.com/Han-chh/Tetris) |
-| Grid Map Generator | Grid-based map generation tool | Java / Algorithm | 🔗 [Repository](https://github.com/Han-chh/Grid-Map-Generator) |
-| Timer Module | Timer utility module | Java | 🔗 [Repository](https://github.com/Han-chh/Timer-module) |
+| Project Name | Description | Language / Tech | GitHub | Gitee |
+|-------------|------------|------------------|--------|-------|
+| 2048 | Classic 2048 game implementation | Java | 🔗 [GitHub](https://github.com/Han-chh/2048) | 🔗 [Gitee](https://gitee.com/Han-chh/2048) |
+| MineSweeper | Minesweeper game with GUI | Java / Swing | 🔗 [GitHub](https://github.com/Han-chh/MineSweeper) | 🔗 [Gitee](https://gitee.com/Han-chh/MineSweeper) |
+| DiaryBook | Desktop diary application | Java / Swing | 🔗 [GitHub](https://github.com/Han-chh/DiaryBook) | 🔗 [Gitee](https://gitee.com/Han-chh/DiaryBook) |
+| RGB Color Panel | RGB color visualization and adjustment tool | Java | 🔗 [GitHub](https://github.com/Han-chh/RGB-Color-Panel) | 🔗 [Gitee](https://gitee.com/Han-chh/RGB-Color-Panel) |
+| Gluttonous Snake | Classic Snake game | Java | 🔗 [GitHub](https://github.com/Han-chh/Gluttonous-Snake) | 🔗 [Gitee](https://gitee.com/Han-chh/Gluttonous-Snake) |
+| Tetris | Tetris game implementation | Java | 🔗 [GitHub](https://github.com/Han-chh/Tetris) | 🔗 [Gitee](https://gitee.com/Han-chh/Tetris) |
+| Grid Map Generator | Grid-based map generation tool | Java / Algorithm | 🔗 [GitHub](https://github.com/Han-chh/Grid-Map-Generator) | 🔗 [Gitee](https://gitee.com/Han-chh/Grid-Map-Generator) |
+| Timer Module | Timer utility module | Java | 🔗 [GitHub](https://github.com/Han-chh/Timer-module) | 🔗 [Gitee](https://gitee.com/Han-chh/Timer-module) |
+
+> Each project repository contains its own README with detailed descriptions, setup instructions, and usage examples.
+
 
 > Each project repository contains its own README with detailed descriptions, setup instructions, and usage examples.
 
