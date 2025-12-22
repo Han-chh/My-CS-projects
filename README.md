@@ -13,7 +13,11 @@ The main purposes of this repository are:
 
 3. **Provide potentially useful tools**  
    - Some small utilities, experimental projects, or practical scripts  
-   - Suitable for direct use in learning or small projects  
+   - Suitable for direct use in learning or small projects
+4. **Suggestions & Improvements Welcome**
+- Many projects in this repository were originally completed years ago and later reorganized. As a result, there may be bugs, incomplete features, version incompatibilities, or cross-platform issues.
+- If you encounter any of these problems, feel free to open an issue or contact me at **13269982528@163.com** to report them.
+ 
 
 > If you find this repository helpful, please give it a ⭐️ to support me!
 
