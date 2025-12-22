@@ -22,6 +22,7 @@ The main purposes of this repository are:
 
 This repository serves as a collection and navigation hub for my completed projects.  
 Each project is maintained in its own independent GitHub repository.
+The links here direct to **github** repositories. If you use **gitee**, you may search the specific repository manually.
 
 | Project Name | Description | Language / Tech | Link |
 |-------------|------------|------------------|------|
