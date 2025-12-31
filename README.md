@@ -26,15 +26,15 @@ Each project is maintained in its own independent GitHub and Gitee repository.
 | Project Name | Description | Language / Tech | GitHub | Gitee |
 |-------------|------------|------------------|--------|-------|
 | 2048 | Classic 2048 game implementation | Java | 🔗 [GitHub](https://github.com/Han-chh/2048) | 🔗 [Gitee](https://gitee.com/Han-chh/2048) |
-| MineSweeper | Minesweeper game with GUI | Java / Swing | 🔗 [GitHub](https://github.com/Han-chh/MineSweeper) | 🔗 [Gitee](https://gitee.com/Han-chh/MineSweeper) |
-| DiaryBook | Desktop diary application | Java / Swing | 🔗 [GitHub](https://github.com/Han-chh/DiaryBook) | 🔗 [Gitee](https://gitee.com/Han-chh/DiaryBook) |
-| RGB Color Panel | RGB color visualization and adjustment tool | Java | 🔗 [GitHub](https://github.com/Han-chh/RGB-Color-Panel) | 🔗 [Gitee](https://gitee.com/Han-chh/RGB-Color-Panel) |
-| Gluttonous Snake | Classic Snake game | Java | 🔗 [GitHub](https://github.com/Han-chh/Gluttonous-Snake) | 🔗 [Gitee](https://gitee.com/Han-chh/Gluttonous-Snake) |
-| Tetris | Tetris game implementation | Java | 🔗 [GitHub](https://github.com/Han-chh/Tetris) | 🔗 [Gitee](https://gitee.com/Han-chh/Tetris) |
-| Grid Map Generator | Grid-based map generation tool | Java / Algorithm | 🔗 [GitHub](https://github.com/Han-chh/Grid-Map-Generator) | 🔗 [Gitee](https://gitee.com/Han-chh/Grid-Map-Generator) |
-| Timer Module | Timer utility module | Java | 🔗 [GitHub](https://github.com/Han-chh/Timer-module) | 🔗 [Gitee](https://gitee.com/Han-chh/Timer-module) |
-| Online Gobang| Online PvP Gobang Game| Python / Pygame | 🔗 [GitHub](https://github.com/Han-chh/Online-Gobang) | 🔗 [Gitee](https://gitee.com/Han-chh/Online-Gobang) |
-｜ FightLandlord Local Algorithm Simulation| Local simulation of FightLandlord game (only algorithm)| Python |  🔗 [GitHub](https://github.com/Han-chh/FightLandlord-Local-Algorithm-Simulation) | 🔗 [Gitee](https://gitee.com/Han-chh/FightLandlord-Local-Algorithm-Simulation) |
+| MineSweeper | Minesweeper game with GUI | Java / Swing | 🔗 [GitHub](https://github.com/Han-chh/MineSweeper) |
+| DiaryBook | Desktop diary application | Java / Swing | 🔗 [GitHub](https://github.com/Han-chh/DiaryBook) | 
+| RGB Color Panel | RGB color visualization and adjustment tool | Java | 🔗 [GitHub](https://github.com/Han-chh/RGB-Color-Panel) | 
+| Gluttonous Snake | Classic Snake game | Java | 🔗 [GitHub](https://github.com/Han-chh/Gluttonous-Snake) | 
+| Tetris | Tetris game implementation | Java | 🔗 [GitHub](https://github.com/Han-chh/Tetris) |
+| Grid Map Generator | Grid-based map generation tool | Java / Algorithm | 🔗 [GitHub](https://github.com/Han-chh/Grid-Map-Generator) | 
+| Timer Module | Timer utility module | Java | 🔗 [GitHub](https://github.com/Han-chh/Timer-module) | 
+| Online Gobang| Online PvP Gobang Game| Python / Pygame | 🔗 [GitHub](https://github.com/Han-chh/Online-Gobang) | 
+｜ FightLandlord Local Algorithm Simulation| Local simulation of FightLandlord game (only algorithm)| Python |  🔗 [GitHub](https://github.com/Han-chh/FightLandlord-Local-Algorithm-Simulation) | 
 
 > Each project repository contains its own README with detailed descriptions, setup instructions, and usage examples.
 
