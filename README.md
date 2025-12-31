@@ -34,7 +34,7 @@ Each project is maintained in its own independent GitHub and Gitee repository.
 | Grid Map Generator | Grid-based map generation tool | Java / Algorithm | 🔗 [GitHub](https://github.com/Han-chh/Grid-Map-Generator) | 
 | Timer Module | Timer utility module | Java | 🔗 [GitHub](https://github.com/Han-chh/Timer-module) | 
 | Online Gobang| Online PvP Gobang Game| Python / Pygame | 🔗 [GitHub](https://github.com/Han-chh/Online-Gobang) | 
-｜FightLandlord Local Algorithm Simulation| Local simulation of FightLandlord game (only algorithm)| Python | 🔗 [GitHub](https://github.com/Han-chh/FightLandlord-Local-Algorithm-Simulation)| 
+| FightLandlord Local Algorithm Simulation| Local simulation of FightLandlord game (only algorithm)| Python | 🔗 [GitHub](https://github.com/Han-chh/FightLandlord-Local-Algorithm-Simulation)| 
 
 > Each project repository contains its own README with detailed descriptions, setup instructions, and usage examples.
 
