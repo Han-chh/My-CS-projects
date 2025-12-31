@@ -32,7 +32,7 @@
 | Tetris | 俄罗斯方块游戏实现 | Java | 🔗 [GitHub](https://github.com/Han-chh/Tetris) | 🔗 [Gitee](https://gitee.com/Han-chh/Tetris) |
 | Grid Map Generator | 基于网格的地图生成工具 | Java / 算法 | 🔗 [GitHub](https://github.com/Han-chh/Grid-Map-Generator) | 🔗 [Gitee](https://gitee.com/Han-chh/Grid-Map-Generator) |
 | Timer Module | 计时器工具模块 | Java | 🔗 [GitHub](https://github.com/Han-chh/Timer-module) | 🔗 [Gitee](https://gitee.com/Han-chh/Timer-module) |
-
+| Online Gobang| 线上联机PvP五子棋 | Python / Pygame | 🔗 [GitHub](https://github.com/Han-chh/Online-Gobang) | 🔗 [Gitee](https://gitee.com/Han-chh/Online-Gobang) |
 > 每个项目仓库中都包含独立的 README 文件，提供详细说明、运行方式和使用示例，适合学习与参考。
 
 > 每个项目仓库中均包含独立的 README 文件，提供详细说明、运行方式和使用示例，适合学习与参考。
