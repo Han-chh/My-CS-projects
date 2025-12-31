@@ -23,8 +23,8 @@ The main purposes of this repository are:
 This repository serves as a collection and navigation hub for my completed projects.  
 Each project is maintained in its own independent GitHub and Gitee repository.
 
-| Project Name | Description | Language / Tech | GitHub | Gitee |
-|-------------|------------|------------------|--------|-------|
+| Project Name | Description | Language / Tech | GitHub 
+|-------------|------------|------------------|--------
 | 2048 | Classic 2048 game implementation | Java | 🔗 [GitHub](https://github.com/Han-chh/2048) | 🔗 [Gitee](https://gitee.com/Han-chh/2048) |
 | MineSweeper | Minesweeper game with GUI | Java / Swing | 🔗 [GitHub](https://github.com/Han-chh/MineSweeper) |
 | DiaryBook | Desktop diary application | Java / Swing | 🔗 [GitHub](https://github.com/Han-chh/DiaryBook) | 
@@ -34,7 +34,7 @@ Each project is maintained in its own independent GitHub and Gitee repository.
 | Grid Map Generator | Grid-based map generation tool | Java / Algorithm | 🔗 [GitHub](https://github.com/Han-chh/Grid-Map-Generator) | 
 | Timer Module | Timer utility module | Java | 🔗 [GitHub](https://github.com/Han-chh/Timer-module) | 
 | Online Gobang| Online PvP Gobang Game| Python / Pygame | 🔗 [GitHub](https://github.com/Han-chh/Online-Gobang) | 
-｜ FightLandlord Local Algorithm Simulation| Local simulation of FightLandlord game (only algorithm)| Python |  🔗 [GitHub](https://github.com/Han-chh/FightLandlord-Local-Algorithm-Simulation) | 
+｜FightLandlord Local Algorithm Simulation| Local simulation of FightLandlord game (only algorithm)| Python | 🔗 [GitHub](https://github.com/Han-chh/FightLandlord-Local-Algorithm-Simulation)| 
 
 > Each project repository contains its own README with detailed descriptions, setup instructions, and usage examples.
 
